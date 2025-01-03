@@ -1,0 +1,14 @@
+{
+    "softwares":
+    {
+        "noktech-desligamento":
+        {
+            "status": "ativo",
+            "updated_at": "2025-01-03 10:00:00",
+            "created_at": "2025-01-03 10:00:00",
+            "version": "0.0.1",
+            "url": "https://noktech.com.br/",
+            "url_zip": "https://noktech.com.br/software/rastreabilidade/animal/0.0.1/release.zip"
+        }
+    }
+}
